@@ -9,6 +9,7 @@ Ranked 100 over 400 participant
 2 main files main_competition.py and main_competition_prophet.py
 
 main_competition uses a DNN to predict
+
 main_competition_prophet uses prophet to predict
 
 # preprocess
