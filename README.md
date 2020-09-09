@@ -8,7 +8,7 @@ Ranked 100 over 400 participant
 # Main
 2 main files main_competition.py and main_competition_prophet.py
 
-main_competition uses a DNN to predict
+main_competition uses a DNN with a vgg16 1d configuration to predict
 
 main_competition_prophet uses prophet to predict
 
